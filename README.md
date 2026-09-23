@@ -8,6 +8,8 @@ A reusable **Cookiecutter Data Science** template for fetching, cleaning, and st
 
 > **Author:** eoneine
 
+📊 **Project Presentation:** Check out the [presentation slide deck](docs/DLG_Data%20Fred%20Fetcher%20Slide.pdf) in the `docs/` folder for a quick overview of the business case and how the pipeline works.
+
 ---
 
 ## How It Works
